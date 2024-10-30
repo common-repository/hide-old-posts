@@ -1,0 +1,63 @@
+# Copyright (C) 2012 Hide Old Posts
+# This file is distributed under the same license as the Hide Old Posts package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hide Old Posts 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/hide-old-posts\n"
+"POT-Creation-Date: 2012-01-23 08:21:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  plugin.pot (Hide Old Posts 1.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: hide-old-posts.php:37 hide-old-posts.php:88
+msgid "Hide Old Posts"
+msgstr ""
+
+#: hide-old-posts.php:94
+msgid "User capability to see all posts"
+msgstr ""
+
+#: hide-old-posts.php:99
+msgid "Enter capability or %s to exclude posts even for admins."
+msgstr ""
+
+#: hide-old-posts.php:103
+msgid "How old posts shall be shown to other users?"
+msgstr ""
+
+#: hide-old-posts.php:109
+msgid "Specify value valid according to %s. Default is \"-2 years\"."
+msgstr ""
+
+#: hide-old-posts.php:114
+msgid "Hide posts only"
+msgstr ""
+
+#: hide-old-posts.php:119
+msgid "If unchecked, old pages, attachments etc. will be hidden as well."
+msgstr ""
+
+#: hide-old-posts.php:123
+msgid "Save"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/hide-old-posts/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Hides posts older than given amount of time."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Zaantar"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://zaantar.eu"
+msgstr ""

@@ -1,0 +1,68 @@
+# Copyright (C) 2012 Hide Old Posts
+# This file is distributed under the same license as the Hide Old Posts package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hide Old Posts 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/hide-old-posts\n"
+"POT-Creation-Date: 2012-01-23 08:21:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-01-23 09:37+0100\n"
+"Last-Translator: Zaantar <zaantar@zaantar.eu>\n"
+"Language-Team: Zaantar <zaantar@gmail.com>\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#. #-#-#-#-#  plugin.pot (Hide Old Posts 1.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: hide-old-posts.php:37
+#: hide-old-posts.php:88
+msgid "Hide Old Posts"
+msgstr "Hide Old Posts"
+
+#: hide-old-posts.php:94
+msgid "User capability to see all posts"
+msgstr "Oprávnění pro zobrazení všech příspěvků"
+
+#: hide-old-posts.php:99
+msgid "Enter capability or %s to exclude posts even for admins."
+msgstr "Zadejte platnou <em>capability</em> (oprávnění uživatele) anebo %s pro skrytí příspěvků i pro administrátora"
+
+#: hide-old-posts.php:103
+msgid "How old posts shall be shown to other users?"
+msgstr "Jak staré články mají být ostatním uživatelům skryty?"
+
+#: hide-old-posts.php:109
+msgid "Specify value valid according to %s. Default is \"-2 years\"."
+msgstr "Udejte platnou hodnotu podle specifikace %s. Výchozí je \"-2 years\"."
+
+#: hide-old-posts.php:114
+msgid "Hide posts only"
+msgstr "Skrýt pouze články"
+
+#: hide-old-posts.php:119
+msgid "If unchecked, old pages, attachments etc. will be hidden as well."
+msgstr "Pokud není označeno, budou skryty také staré stránky, přílohy, atd."
+
+#: hide-old-posts.php:123
+msgid "Save"
+msgstr "Uložit"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/hide-old-posts/"
+msgstr "http://wordpress.org/extend/plugins/hide-old-posts/"
+
+#. Description of the plugin/theme
+msgid "Hides posts older than given amount of time."
+msgstr "Skrývá články starší než zadané množství času."
+
+#. Author of the plugin/theme
+msgid "Zaantar"
+msgstr "Zaantar"
+
+#. Author URI of the plugin/theme
+msgid "http://zaantar.eu"
+msgstr "http://zaantar.eu"
+
